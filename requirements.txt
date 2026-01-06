@@ -4,3 +4,4 @@ nltk
 python-dotenv
 scikit-learn
 pandas
+numpy
