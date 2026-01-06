@@ -1,0 +1,6 @@
+streamlit
+tweepy
+nltk
+python-dotenv
+scikit-learn
+pandas
