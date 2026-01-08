@@ -17,15 +17,11 @@ A **Python & Streamlit application** that performs **real-time sentiment analysi
 
 ## 🖼️ Demo / Screenshots
 
-![Home Screen 1](https://github.com/user-attachments/assets/3e518dd3-22b3-4f77-9f2e-392c1f466048)
+<img width="1911" height="968" alt="image" src="https://github.com/user-attachments/assets/1f55d403-a63c-48fc-a7db-fec40d11f0b8" />
 
-![Sentiment Results 1](https://github.com/user-attachments/assets/33b35315-f014-44ce-a6a7-27b940770156)
+<img width="1914" height="952" alt="image" src="https://github.com/user-attachments/assets/ae5bb4c0-5dde-4c51-90c4-3cc19d868521" />
 
-![Home Screen 2](https://github.com/user-attachments/assets/d0478dda-d315-475b-b1af-1795b567fbe9)
-
-![Sentiment Results 2](https://github.com/user-attachments/assets/a29e3c42-e0f8-432d-a5b2-337e5041d912)
-
-
+<img width="1916" height="969" alt="image" src="https://github.com/user-attachments/assets/eacf84dc-7e11-4784-be88-175240ee0a2d" />
 
 ---
 
